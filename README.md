@@ -5,7 +5,6 @@ This Python tool is designed to simplify the process of extracting text and ques
 - **Text Extraction**: Utilizes computer vision techniques to extract text from screenshots.
 - **Question Fetch**: Fetch questions from extracted text.
 - **Answer Retrieval**: Uses ChatGPT for answering extracted questions.
-- **Easy-to-Use Interface**: Provides a user-friendly command-line interface for seamless interaction.
 
 ## Usage
 1. clone the repo using git clone
