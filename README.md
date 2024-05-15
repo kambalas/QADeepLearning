@@ -1,5 +1,4 @@
-# ScreenQA
-Python tool designed to streamline the process of extracting text/questions from screenshots and obtaining immediate answers using ChatGPT. This tool combines computer vision and natural language processing to provide a seamless workflow for capturing information from images and generating relevant responses. Whether you're extracting data from documents, presentations, or online content, ScreenQA simplifies the task by automating the text extraction and question-answering processes. Enhance your productivity and explore new possibilities with ScreenQA today!
+This Python tool is designed to simplify the process of extracting text and questions from screenshots and obtaining immediate answers with the help of ChatGPT. Utilizing computer vision and natural language processing, the tool offers a seamless workflow for capturing information from images and generating relevant responses. Whether you're extracting data from documents, presentations, or online content, it automates both the text extraction and question-answering tasks, making the entire process more efficient.
 
 ## Features
 
@@ -10,13 +9,11 @@ Python tool designed to streamline the process of extracting text/questions from
 
 ## Usage
 1. clone the repo using git clone
-2. Extract file and install dependecies & chenge chatgpt api key must
-3. Done just run the bellow code and enjoy
-4. Run the `main.py` script:
+2. Install dependecies & use your openai api key
+3. Run the `main.py` script:
    ```bash
    python main.py
    ```
-## Example 
 
 
 
